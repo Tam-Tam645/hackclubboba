@@ -2,3 +2,9 @@ html {
   height: 100%;
   width: 100%;
 }
+body {
+  background-color: #ac4cae; /* Green */;
+  color:purple;
+  a {color: #ff0000;} /* Red */.} 
+  font-family: "Trebuchet MS", "Arial", sans-serif;
+  }
